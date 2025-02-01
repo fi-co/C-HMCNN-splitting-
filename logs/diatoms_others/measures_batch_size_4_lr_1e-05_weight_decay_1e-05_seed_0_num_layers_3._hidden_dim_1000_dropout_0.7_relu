@@ -1,0 +1,414 @@
+
+Epoch: 0 - Loss: 0.5540, Accuracy train: 0.64591, Accuracy: 0.98684, Precision score: (0.02226)
+
+Epoch: 1 - Loss: 0.0761, Accuracy train: 0.94890, Accuracy: 0.99436, Precision score: (0.02007)
+
+Epoch: 2 - Loss: 0.0494, Accuracy train: 0.99337, Accuracy: 0.99499, Precision score: (0.01442)
+
+Epoch: 3 - Loss: 0.0689, Accuracy train: 0.99402, Accuracy: 0.99499, Precision score: (0.01578)
+
+Epoch: 4 - Loss: 0.0447, Accuracy train: 0.99405, Accuracy: 0.99499, Precision score: (0.01813)
+
+Epoch: 5 - Loss: 0.0246, Accuracy train: 0.99403, Accuracy: 0.99499, Precision score: (0.02147)
+
+Epoch: 6 - Loss: 0.0324, Accuracy train: 0.99398, Accuracy: 0.99436, Precision score: (0.02296)
+
+Epoch: 7 - Loss: 0.0370, Accuracy train: 0.99390, Accuracy: 0.99436, Precision score: (0.02594)
+
+Epoch: 8 - Loss: 0.0303, Accuracy train: 0.99399, Accuracy: 0.99436, Precision score: (0.02997)
+
+Epoch: 9 - Loss: 0.0302, Accuracy train: 0.99392, Accuracy: 0.99436, Precision score: (0.03448)
+
+Epoch: 10 - Loss: 0.0299, Accuracy train: 0.99393, Accuracy: 0.99436, Precision score: (0.03824)
+
+Epoch: 11 - Loss: 0.0412, Accuracy train: 0.99395, Accuracy: 0.99436, Precision score: (0.04288)
+
+Epoch: 12 - Loss: 0.0425, Accuracy train: 0.99397, Accuracy: 0.99436, Precision score: (0.04711)
+
+Epoch: 13 - Loss: 0.0119, Accuracy train: 0.99407, Accuracy: 0.99436, Precision score: (0.05115)
+
+Epoch: 14 - Loss: 0.0234, Accuracy train: 0.99404, Accuracy: 0.99436, Precision score: (0.05523)
+
+Epoch: 15 - Loss: 0.0289, Accuracy train: 0.99409, Accuracy: 0.99436, Precision score: (0.05910)
+
+Epoch: 16 - Loss: 0.0173, Accuracy train: 0.99405, Accuracy: 0.99436, Precision score: (0.06102)
+
+Epoch: 17 - Loss: 0.0365, Accuracy train: 0.99415, Accuracy: 0.99436, Precision score: (0.06385)
+
+Epoch: 18 - Loss: 0.0393, Accuracy train: 0.99415, Accuracy: 0.99436, Precision score: (0.06620)
+
+Epoch: 19 - Loss: 0.0329, Accuracy train: 0.99415, Accuracy: 0.99436, Precision score: (0.06878)
+
+Epoch: 20 - Loss: 0.0275, Accuracy train: 0.99415, Accuracy: 0.99436, Precision score: (0.07038)
+
+Epoch: 21 - Loss: 0.0377, Accuracy train: 0.99410, Accuracy: 0.99436, Precision score: (0.07228)
+
+Epoch: 22 - Loss: 0.0365, Accuracy train: 0.99412, Accuracy: 0.99436, Precision score: (0.07442)
+
+Epoch: 23 - Loss: 0.0310, Accuracy train: 0.99394, Accuracy: 0.99248, Precision score: (0.07589)
+
+Epoch: 24 - Loss: 0.0307, Accuracy train: 0.99299, Accuracy: 0.99248, Precision score: (0.07818)
+
+Epoch: 25 - Loss: 0.0339, Accuracy train: 0.99269, Accuracy: 0.99248, Precision score: (0.07999)
+
+Epoch: 26 - Loss: 0.0181, Accuracy train: 0.99271, Accuracy: 0.99248, Precision score: (0.08172)
+
+Epoch: 27 - Loss: 0.0217, Accuracy train: 0.99269, Accuracy: 0.99248, Precision score: (0.08387)
+
+Epoch: 28 - Loss: 0.0353, Accuracy train: 0.99270, Accuracy: 0.99248, Precision score: (0.08598)
+
+Epoch: 29 - Loss: 0.0202, Accuracy train: 0.99267, Accuracy: 0.99248, Precision score: (0.08818)
+
+Epoch: 30 - Loss: 0.0206, Accuracy train: 0.99272, Accuracy: 0.99248, Precision score: (0.09018)
+
+Epoch: 31 - Loss: 0.0256, Accuracy train: 0.99269, Accuracy: 0.99248, Precision score: (0.09263)
+
+Epoch: 32 - Loss: 0.0279, Accuracy train: 0.99271, Accuracy: 0.99248, Precision score: (0.09457)
+
+Epoch: 33 - Loss: 0.0256, Accuracy train: 0.99274, Accuracy: 0.99248, Precision score: (0.09678)
+
+Epoch: 34 - Loss: 0.0365, Accuracy train: 0.99271, Accuracy: 0.99248, Precision score: (0.10033)
+
+Epoch: 35 - Loss: 0.0378, Accuracy train: 0.99270, Accuracy: 0.99248, Precision score: (0.10199)
+
+Epoch: 36 - Loss: 0.0206, Accuracy train: 0.99273, Accuracy: 0.99248, Precision score: (0.10464)
+
+Epoch: 37 - Loss: 0.0302, Accuracy train: 0.99271, Accuracy: 0.99248, Precision score: (0.10770)
+
+Epoch: 38 - Loss: 0.0231, Accuracy train: 0.99273, Accuracy: 0.99248, Precision score: (0.11071)
+
+Epoch: 39 - Loss: 0.0239, Accuracy train: 0.99272, Accuracy: 0.99248, Precision score: (0.11350)
+
+Epoch: 40 - Loss: 0.0244, Accuracy train: 0.99272, Accuracy: 0.99248, Precision score: (0.11588)
+
+Epoch: 41 - Loss: 0.0333, Accuracy train: 0.99274, Accuracy: 0.99248, Precision score: (0.11930)
+
+Epoch: 42 - Loss: 0.0221, Accuracy train: 0.99273, Accuracy: 0.99248, Precision score: (0.12167)
+
+Epoch: 43 - Loss: 0.0266, Accuracy train: 0.99277, Accuracy: 0.99248, Precision score: (0.12529)
+
+Epoch: 44 - Loss: 0.0223, Accuracy train: 0.99279, Accuracy: 0.99248, Precision score: (0.12993)
+
+Epoch: 45 - Loss: 0.0127, Accuracy train: 0.99277, Accuracy: 0.99248, Precision score: (0.13356)
+
+Epoch: 46 - Loss: 0.0416, Accuracy train: 0.99279, Accuracy: 0.99248, Precision score: (0.13568)
+
+Epoch: 47 - Loss: 0.0257, Accuracy train: 0.99278, Accuracy: 0.99248, Precision score: (0.13954)
+
+Epoch: 48 - Loss: 0.0200, Accuracy train: 0.99277, Accuracy: 0.99248, Precision score: (0.14266)
+
+Epoch: 49 - Loss: 0.0175, Accuracy train: 0.99278, Accuracy: 0.99248, Precision score: (0.14632)
+
+Epoch: 50 - Loss: 0.0277, Accuracy train: 0.99276, Accuracy: 0.99248, Precision score: (0.14988)
+
+Epoch: 51 - Loss: 0.0305, Accuracy train: 0.99278, Accuracy: 0.99248, Precision score: (0.15210)
+
+Epoch: 52 - Loss: 0.0239, Accuracy train: 0.99276, Accuracy: 0.99248, Precision score: (0.15501)
+
+Epoch: 53 - Loss: 0.0061, Accuracy train: 0.99280, Accuracy: 0.99248, Precision score: (0.15637)
+
+Epoch: 54 - Loss: 0.0082, Accuracy train: 0.99285, Accuracy: 0.99248, Precision score: (0.16051)
+
+Epoch: 55 - Loss: 0.0257, Accuracy train: 0.99284, Accuracy: 0.99248, Precision score: (0.16384)
+
+Epoch: 56 - Loss: 0.0297, Accuracy train: 0.99284, Accuracy: 0.99248, Precision score: (0.16708)
+
+Epoch: 57 - Loss: 0.0245, Accuracy train: 0.99283, Accuracy: 0.99248, Precision score: (0.16967)
+
+Epoch: 58 - Loss: 0.0380, Accuracy train: 0.99282, Accuracy: 0.99248, Precision score: (0.17322)
+
+Epoch: 59 - Loss: 0.0251, Accuracy train: 0.99284, Accuracy: 0.99248, Precision score: (0.17535)
+
+Epoch: 60 - Loss: 0.0173, Accuracy train: 0.99284, Accuracy: 0.99248, Precision score: (0.17934)
+
+Epoch: 61 - Loss: 0.0281, Accuracy train: 0.99283, Accuracy: 0.99248, Precision score: (0.18158)
+
+Epoch: 62 - Loss: 0.0308, Accuracy train: 0.99285, Accuracy: 0.99248, Precision score: (0.18430)
+
+Epoch: 63 - Loss: 0.0221, Accuracy train: 0.99289, Accuracy: 0.99248, Precision score: (0.18653)
+
+Epoch: 64 - Loss: 0.0180, Accuracy train: 0.99287, Accuracy: 0.99248, Precision score: (0.18958)
+
+Epoch: 65 - Loss: 0.0144, Accuracy train: 0.99287, Accuracy: 0.99248, Precision score: (0.19144)
+
+Epoch: 66 - Loss: 0.0224, Accuracy train: 0.99285, Accuracy: 0.99248, Precision score: (0.19389)
+
+Epoch: 67 - Loss: 0.0186, Accuracy train: 0.99290, Accuracy: 0.99248, Precision score: (0.19915)
+
+Epoch: 68 - Loss: 0.0165, Accuracy train: 0.99293, Accuracy: 0.99248, Precision score: (0.20149)
+
+Epoch: 69 - Loss: 0.0110, Accuracy train: 0.99292, Accuracy: 0.99248, Precision score: (0.20484)
+
+Epoch: 70 - Loss: 0.0105, Accuracy train: 0.99294, Accuracy: 0.99248, Precision score: (0.20693)
+
+Epoch: 71 - Loss: 0.0250, Accuracy train: 0.99287, Accuracy: 0.99248, Precision score: (0.21043)
+
+Epoch: 72 - Loss: 0.0117, Accuracy train: 0.99290, Accuracy: 0.99248, Precision score: (0.21184)
+
+Epoch: 73 - Loss: 0.0082, Accuracy train: 0.99295, Accuracy: 0.99248, Precision score: (0.21522)
+
+Epoch: 74 - Loss: 0.0199, Accuracy train: 0.99292, Accuracy: 0.99248, Precision score: (0.21774)
+
+Epoch: 75 - Loss: 0.0276, Accuracy train: 0.99291, Accuracy: 0.99248, Precision score: (0.22051)
+
+Epoch: 76 - Loss: 0.0224, Accuracy train: 0.99294, Accuracy: 0.99248, Precision score: (0.22372)
+
+Epoch: 77 - Loss: 0.0289, Accuracy train: 0.99299, Accuracy: 0.99248, Precision score: (0.22714)
+
+Epoch: 78 - Loss: 0.0251, Accuracy train: 0.99302, Accuracy: 0.99248, Precision score: (0.22844)
+
+Epoch: 79 - Loss: 0.0315, Accuracy train: 0.99304, Accuracy: 0.99248, Precision score: (0.23161)
+
+Epoch: 80 - Loss: 0.0093, Accuracy train: 0.99297, Accuracy: 0.99248, Precision score: (0.23462)
+
+Epoch: 81 - Loss: 0.0046, Accuracy train: 0.99297, Accuracy: 0.99248, Precision score: (0.23611)
+
+Epoch: 82 - Loss: 0.0115, Accuracy train: 0.99300, Accuracy: 0.99248, Precision score: (0.23932)
+
+Epoch: 83 - Loss: 0.0124, Accuracy train: 0.99302, Accuracy: 0.99248, Precision score: (0.24444)
+
+Epoch: 84 - Loss: 0.0045, Accuracy train: 0.99305, Accuracy: 0.99248, Precision score: (0.24505)
+
+Epoch: 85 - Loss: 0.0197, Accuracy train: 0.99308, Accuracy: 0.99248, Precision score: (0.24676)
+
+Epoch: 86 - Loss: 0.0358, Accuracy train: 0.99305, Accuracy: 0.99248, Precision score: (0.25293)
+
+Epoch: 87 - Loss: 0.0138, Accuracy train: 0.99307, Accuracy: 0.99248, Precision score: (0.25593)
+
+Epoch: 88 - Loss: 0.0101, Accuracy train: 0.99308, Accuracy: 0.99248, Precision score: (0.25694)
+
+Epoch: 89 - Loss: 0.0153, Accuracy train: 0.99307, Accuracy: 0.99248, Precision score: (0.25995)
+
+Epoch: 90 - Loss: 0.0323, Accuracy train: 0.99310, Accuracy: 0.99248, Precision score: (0.26352)
+
+Epoch: 91 - Loss: 0.0119, Accuracy train: 0.99308, Accuracy: 0.99248, Precision score: (0.26505)
+
+Epoch: 92 - Loss: 0.0237, Accuracy train: 0.99308, Accuracy: 0.99248, Precision score: (0.26755)
+
+Epoch: 93 - Loss: 0.0169, Accuracy train: 0.99313, Accuracy: 0.99248, Precision score: (0.26925)
+
+Epoch: 94 - Loss: 0.0198, Accuracy train: 0.99310, Accuracy: 0.99248, Precision score: (0.27415)
+
+Epoch: 95 - Loss: 0.0085, Accuracy train: 0.99313, Accuracy: 0.99248, Precision score: (0.27748)
+
+Epoch: 96 - Loss: 0.0160, Accuracy train: 0.99316, Accuracy: 0.99248, Precision score: (0.27745)
+
+Epoch: 97 - Loss: 0.0087, Accuracy train: 0.99313, Accuracy: 0.99248, Precision score: (0.28291)
+
+Epoch: 98 - Loss: 0.0113, Accuracy train: 0.99323, Accuracy: 0.99248, Precision score: (0.28683)
+
+Epoch: 99 - Loss: 0.0181, Accuracy train: 0.99319, Accuracy: 0.99248, Precision score: (0.28906)
+
+Epoch: 100 - Loss: 0.0199, Accuracy train: 0.99317, Accuracy: 0.99248, Precision score: (0.29034)
+
+Epoch: 101 - Loss: 0.0213, Accuracy train: 0.99318, Accuracy: 0.99248, Precision score: (0.29291)
+
+Epoch: 102 - Loss: 0.0253, Accuracy train: 0.99319, Accuracy: 0.99248, Precision score: (0.29607)
+
+Epoch: 103 - Loss: 0.0093, Accuracy train: 0.99317, Accuracy: 0.99248, Precision score: (0.29818)
+
+Epoch: 104 - Loss: 0.0159, Accuracy train: 0.99327, Accuracy: 0.99248, Precision score: (0.30008)
+
+Epoch: 105 - Loss: 0.0277, Accuracy train: 0.99325, Accuracy: 0.99248, Precision score: (0.30518)
+
+Epoch: 106 - Loss: 0.0180, Accuracy train: 0.99321, Accuracy: 0.99248, Precision score: (0.30753)
+
+Epoch: 107 - Loss: 0.0267, Accuracy train: 0.99327, Accuracy: 0.99248, Precision score: (0.30757)
+
+Epoch: 108 - Loss: 0.0061, Accuracy train: 0.99324, Accuracy: 0.99248, Precision score: (0.30869)
+
+Epoch: 109 - Loss: 0.0235, Accuracy train: 0.99326, Accuracy: 0.99248, Precision score: (0.31410)
+
+Epoch: 110 - Loss: 0.0232, Accuracy train: 0.99331, Accuracy: 0.99248, Precision score: (0.31606)
+
+Epoch: 111 - Loss: 0.0218, Accuracy train: 0.99331, Accuracy: 0.99248, Precision score: (0.32056)
+
+Epoch: 112 - Loss: 0.0349, Accuracy train: 0.99334, Accuracy: 0.99248, Precision score: (0.32383)
+
+Epoch: 113 - Loss: 0.0221, Accuracy train: 0.99333, Accuracy: 0.99248, Precision score: (0.32642)
+
+Epoch: 114 - Loss: 0.0104, Accuracy train: 0.99335, Accuracy: 0.99248, Precision score: (0.32799)
+
+Epoch: 115 - Loss: 0.0169, Accuracy train: 0.99326, Accuracy: 0.99248, Precision score: (0.33123)
+
+Epoch: 116 - Loss: 0.0155, Accuracy train: 0.99337, Accuracy: 0.99248, Precision score: (0.33365)
+
+Epoch: 117 - Loss: 0.0110, Accuracy train: 0.99338, Accuracy: 0.99248, Precision score: (0.33542)
+
+Epoch: 118 - Loss: 0.0187, Accuracy train: 0.99342, Accuracy: 0.99248, Precision score: (0.33721)
+
+Epoch: 119 - Loss: 0.0167, Accuracy train: 0.99336, Accuracy: 0.99248, Precision score: (0.33845)
+
+Epoch: 120 - Loss: 0.0075, Accuracy train: 0.99341, Accuracy: 0.99248, Precision score: (0.34128)
+
+Epoch: 121 - Loss: 0.0094, Accuracy train: 0.99344, Accuracy: 0.99248, Precision score: (0.34221)
+
+Epoch: 122 - Loss: 0.0105, Accuracy train: 0.99348, Accuracy: 0.99248, Precision score: (0.34434)
+
+Epoch: 123 - Loss: 0.0160, Accuracy train: 0.99343, Accuracy: 0.99248, Precision score: (0.34670)
+
+Epoch: 124 - Loss: 0.0305, Accuracy train: 0.99341, Accuracy: 0.99248, Precision score: (0.35092)
+
+Epoch: 125 - Loss: 0.0088, Accuracy train: 0.99347, Accuracy: 0.99248, Precision score: (0.35450)
+
+Epoch: 126 - Loss: 0.0138, Accuracy train: 0.99345, Accuracy: 0.99248, Precision score: (0.35673)
+
+Epoch: 127 - Loss: 0.0061, Accuracy train: 0.99350, Accuracy: 0.99248, Precision score: (0.35863)
+
+Epoch: 128 - Loss: 0.0080, Accuracy train: 0.99350, Accuracy: 0.99248, Precision score: (0.36160)
+
+Epoch: 129 - Loss: 0.0237, Accuracy train: 0.99354, Accuracy: 0.99248, Precision score: (0.36394)
+
+Epoch: 130 - Loss: 0.0118, Accuracy train: 0.99354, Accuracy: 0.99248, Precision score: (0.36608)
+
+Epoch: 131 - Loss: 0.0212, Accuracy train: 0.99354, Accuracy: 0.99248, Precision score: (0.36696)
+
+Epoch: 132 - Loss: 0.0211, Accuracy train: 0.99347, Accuracy: 0.99248, Precision score: (0.36919)
+
+Epoch: 133 - Loss: 0.0114, Accuracy train: 0.99357, Accuracy: 0.99248, Precision score: (0.37233)
+
+Epoch: 134 - Loss: 0.0132, Accuracy train: 0.99351, Accuracy: 0.99248, Precision score: (0.37421)
+
+Epoch: 135 - Loss: 0.0148, Accuracy train: 0.99356, Accuracy: 0.99248, Precision score: (0.37648)
+
+Epoch: 136 - Loss: 0.0126, Accuracy train: 0.99357, Accuracy: 0.99248, Precision score: (0.37742)
+
+Epoch: 137 - Loss: 0.0054, Accuracy train: 0.99360, Accuracy: 0.99248, Precision score: (0.37971)
+
+Epoch: 138 - Loss: 0.0152, Accuracy train: 0.99358, Accuracy: 0.99248, Precision score: (0.38202)
+
+Epoch: 139 - Loss: 0.0198, Accuracy train: 0.99365, Accuracy: 0.99248, Precision score: (0.38278)
+
+Epoch: 140 - Loss: 0.0139, Accuracy train: 0.99363, Accuracy: 0.99248, Precision score: (0.38344)
+
+Epoch: 141 - Loss: 0.0122, Accuracy train: 0.99369, Accuracy: 0.99248, Precision score: (0.38616)
+
+Epoch: 142 - Loss: 0.0143, Accuracy train: 0.99363, Accuracy: 0.99248, Precision score: (0.38820)
+
+Epoch: 143 - Loss: 0.0219, Accuracy train: 0.99378, Accuracy: 0.99248, Precision score: (0.39011)
+
+Epoch: 144 - Loss: 0.0122, Accuracy train: 0.99362, Accuracy: 0.99248, Precision score: (0.39186)
+
+Epoch: 145 - Loss: 0.0186, Accuracy train: 0.99365, Accuracy: 0.99248, Precision score: (0.39383)
+
+Epoch: 146 - Loss: 0.0068, Accuracy train: 0.99374, Accuracy: 0.99248, Precision score: (0.39596)
+
+Epoch: 147 - Loss: 0.0274, Accuracy train: 0.99375, Accuracy: 0.99248, Precision score: (0.39804)
+
+Epoch: 148 - Loss: 0.0166, Accuracy train: 0.99375, Accuracy: 0.99248, Precision score: (0.39943)
+
+Epoch: 149 - Loss: 0.0107, Accuracy train: 0.99381, Accuracy: 0.99248, Precision score: (0.40059)
+
+Epoch: 150 - Loss: 0.0112, Accuracy train: 0.99382, Accuracy: 0.99248, Precision score: (0.40321)
+
+Epoch: 151 - Loss: 0.0253, Accuracy train: 0.99378, Accuracy: 0.99248, Precision score: (0.40490)
+
+Epoch: 152 - Loss: 0.0188, Accuracy train: 0.99381, Accuracy: 0.99248, Precision score: (0.40602)
+
+Epoch: 153 - Loss: 0.0095, Accuracy train: 0.99383, Accuracy: 0.99248, Precision score: (0.40952)
+
+Epoch: 154 - Loss: 0.0143, Accuracy train: 0.99380, Accuracy: 0.99248, Precision score: (0.41133)
+
+Epoch: 155 - Loss: 0.0172, Accuracy train: 0.99381, Accuracy: 0.99248, Precision score: (0.41193)
+
+Epoch: 156 - Loss: 0.0193, Accuracy train: 0.99378, Accuracy: 0.99248, Precision score: (0.41530)
+
+Epoch: 157 - Loss: 0.0061, Accuracy train: 0.99396, Accuracy: 0.99248, Precision score: (0.41726)
+
+Epoch: 158 - Loss: 0.0120, Accuracy train: 0.99388, Accuracy: 0.99248, Precision score: (0.41886)
+
+Epoch: 159 - Loss: 0.0177, Accuracy train: 0.99392, Accuracy: 0.99248, Precision score: (0.42092)
+
+Epoch: 160 - Loss: 0.0187, Accuracy train: 0.99395, Accuracy: 0.99248, Precision score: (0.42126)
+
+Epoch: 161 - Loss: 0.0140, Accuracy train: 0.99392, Accuracy: 0.99248, Precision score: (0.42295)
+
+Epoch: 162 - Loss: 0.0085, Accuracy train: 0.99385, Accuracy: 0.99248, Precision score: (0.42496)
+
+Epoch: 163 - Loss: 0.0207, Accuracy train: 0.99391, Accuracy: 0.99248, Precision score: (0.42618)
+
+Epoch: 164 - Loss: 0.0088, Accuracy train: 0.99391, Accuracy: 0.99248, Precision score: (0.42768)
+
+Epoch: 165 - Loss: 0.0173, Accuracy train: 0.99389, Accuracy: 0.99248, Precision score: (0.42807)
+
+Epoch: 166 - Loss: 0.0287, Accuracy train: 0.99399, Accuracy: 0.99248, Precision score: (0.43076)
+
+Epoch: 167 - Loss: 0.0153, Accuracy train: 0.99393, Accuracy: 0.99248, Precision score: (0.43338)
+
+Epoch: 168 - Loss: 0.0053, Accuracy train: 0.99397, Accuracy: 0.99248, Precision score: (0.43348)
+
+Epoch: 169 - Loss: 0.0172, Accuracy train: 0.99403, Accuracy: 0.99248, Precision score: (0.43556)
+
+Epoch: 170 - Loss: 0.0067, Accuracy train: 0.99398, Accuracy: 0.99248, Precision score: (0.43793)
+
+Epoch: 171 - Loss: 0.0185, Accuracy train: 0.99404, Accuracy: 0.99248, Precision score: (0.43884)
+
+Epoch: 172 - Loss: 0.0170, Accuracy train: 0.99405, Accuracy: 0.99248, Precision score: (0.43997)
+
+Epoch: 173 - Loss: 0.0237, Accuracy train: 0.99406, Accuracy: 0.99248, Precision score: (0.44097)
+
+Epoch: 174 - Loss: 0.0207, Accuracy train: 0.99404, Accuracy: 0.99248, Precision score: (0.44161)
+
+Epoch: 175 - Loss: 0.0084, Accuracy train: 0.99411, Accuracy: 0.99248, Precision score: (0.44413)
+
+Epoch: 176 - Loss: 0.0084, Accuracy train: 0.99407, Accuracy: 0.99248, Precision score: (0.44476)
+
+Epoch: 177 - Loss: 0.0052, Accuracy train: 0.99417, Accuracy: 0.99248, Precision score: (0.44730)
+
+Epoch: 178 - Loss: 0.0086, Accuracy train: 0.99416, Accuracy: 0.99248, Precision score: (0.44944)
+
+Epoch: 179 - Loss: 0.0155, Accuracy train: 0.99416, Accuracy: 0.99248, Precision score: (0.45053)
+
+Epoch: 180 - Loss: 0.0048, Accuracy train: 0.99421, Accuracy: 0.99248, Precision score: (0.45101)
+
+Epoch: 181 - Loss: 0.0181, Accuracy train: 0.99410, Accuracy: 0.99248, Precision score: (0.45204)
+
+Epoch: 182 - Loss: 0.0192, Accuracy train: 0.99421, Accuracy: 0.99248, Precision score: (0.45426)
+
+Epoch: 183 - Loss: 0.0130, Accuracy train: 0.99428, Accuracy: 0.99248, Precision score: (0.45646)
+
+Epoch: 184 - Loss: 0.0211, Accuracy train: 0.99427, Accuracy: 0.99248, Precision score: (0.45615)
+
+Epoch: 185 - Loss: 0.0062, Accuracy train: 0.99431, Accuracy: 0.99248, Precision score: (0.45774)
+
+Epoch: 186 - Loss: 0.0094, Accuracy train: 0.99414, Accuracy: 0.99248, Precision score: (0.45909)
+
+Epoch: 187 - Loss: 0.0147, Accuracy train: 0.99431, Accuracy: 0.99248, Precision score: (0.46015)
+
+Epoch: 188 - Loss: 0.0058, Accuracy train: 0.99425, Accuracy: 0.99248, Precision score: (0.46052)
+
+Epoch: 189 - Loss: 0.0084, Accuracy train: 0.99428, Accuracy: 0.99248, Precision score: (0.46312)
+
+Epoch: 190 - Loss: 0.0053, Accuracy train: 0.99432, Accuracy: 0.99248, Precision score: (0.46451)
+
+Epoch: 191 - Loss: 0.0015, Accuracy train: 0.99433, Accuracy: 0.99248, Precision score: (0.46693)
+
+Epoch: 192 - Loss: 0.0087, Accuracy train: 0.99430, Accuracy: 0.99248, Precision score: (0.46764)
+
+Epoch: 193 - Loss: 0.0134, Accuracy train: 0.99427, Accuracy: 0.99248, Precision score: (0.46980)
+
+Epoch: 194 - Loss: 0.0122, Accuracy train: 0.99440, Accuracy: 0.99248, Precision score: (0.47017)
+
+Epoch: 195 - Loss: 0.0109, Accuracy train: 0.99437, Accuracy: 0.99248, Precision score: (0.47107)
+
+Epoch: 196 - Loss: 0.0068, Accuracy train: 0.99440, Accuracy: 0.99248, Precision score: (0.47304)
+
+Epoch: 197 - Loss: 0.0094, Accuracy train: 0.99442, Accuracy: 0.99248, Precision score: (0.47298)
+
+Epoch: 198 - Loss: 0.0117, Accuracy train: 0.99445, Accuracy: 0.99248, Precision score: (0.47427)
+
+Epoch: 199 - Loss: 0.0028, Accuracy train: 0.99432, Accuracy: 0.99248, Precision score: (0.47524)
+
+Epoch: 200 - Loss: 0.0139, Accuracy train: 0.99438, Accuracy: 0.99248, Precision score: (0.47666)
+
+Epoch: 201 - Loss: 0.0054, Accuracy train: 0.99444, Accuracy: 0.99248, Precision score: (0.47745)
+
+Epoch: 202 - Loss: 0.0138, Accuracy train: 0.99440, Accuracy: 0.99248, Precision score: (0.47892)
+
+Epoch: 203 - Loss: 0.0196, Accuracy train: 0.99449, Accuracy: 0.99248, Precision score: (0.47893)
+
+Epoch: 204 - Loss: 0.0176, Accuracy train: 0.99442, Accuracy: 0.99248, Precision score: (0.48097)
+
+Epoch: 205 - Loss: 0.0111, Accuracy train: 0.99450, Accuracy: 0.99248, Precision score: (0.48276)
+
+Epoch: 206 - Loss: 0.0106, Accuracy train: 0.99452, Accuracy: 0.99248, Precision score: (0.48323)

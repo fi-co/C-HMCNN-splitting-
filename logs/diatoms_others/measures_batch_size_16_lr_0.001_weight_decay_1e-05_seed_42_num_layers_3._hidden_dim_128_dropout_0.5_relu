@@ -1,0 +1,10 @@
+
+Epoch: 0 - Loss: 0.0400, Accuracy train: 0.93275, Accuracy: 0.99541, Precision score: (0.01819)
+
+Epoch: 1 - Loss: 0.0362, Accuracy train: 0.99422, Accuracy: 0.99541, Precision score: (0.04193)
+
+Epoch: 2 - Loss: 0.0297, Accuracy train: 0.99480, Accuracy: 0.99541, Precision score: (0.05503)
+
+Epoch: 3 - Loss: 0.0332, Accuracy train: 0.99300, Accuracy: 0.99290, Precision score: (0.06343)
+
+Epoch: 4 - Loss: 0.0274, Accuracy train: 0.99302, Accuracy: 0.99290, Precision score: (0.06803)
